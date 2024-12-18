@@ -8,7 +8,7 @@
 
 <p align="left">I'm Adrian Mokrzycki, passionate JavaScript developer
 <br><br>
-- 🔭 I’m working as JavaScript Developer in GumGum - <a href="https://github.com/adrian-mokrzycki-gg">My work account</a>
+- 🔭 I’m working as JavaScript Developer in GumGum
 <br>
 - 🛠 Currently working on: Zielony Koszyk (React & NestJS - TypeScript) - online store with vegetables and fruits.
 
