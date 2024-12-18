@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">I'm Adrian Mokrzycki, passionate JavaScript developer<br><br>- 🔭 I’m working as JavaScript Developer in GumGum
+<p align="left">I'm Adrian Mokrzycki, passionate JavaScript developer
+<br><br>
+- 🔭 I’m working as JavaScript Developer in GumGum - <a href="https://github.com/adrian-mokrzycki-gg">My work account</a>
+<br>
+- 🛠 Currently working on: Zielony Koszyk (React & NestJS - TypeScript) - online store with vegetables and fruits.
 
 ###
 
@@ -23,11 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
