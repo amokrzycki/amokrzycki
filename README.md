@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Adrian Mokrzycki, passionate React developer
+<p align="left">I'm Adrian Mokrzycki, passionate JavaScript developer
 <br><br>
 - 🔭 I’m working as JavaScript Developer in GumGum
 <br>
