@@ -6,11 +6,9 @@
 
 ###
 
-<p align="left">I'm Adrian Mokrzycki, passionate JavaScript developer
+<p align="left">I'm Adrian Mokrzycki, passionate Frontend/Fullstack developer
 <br><br>
-- 🔭 I’m working as JavaScript Developer in GumGum
-<br>
-- 🛠 Currently working on: Zielony Koszyk (React & NestJS - TypeScript) - online store with vegetables and fruits.
+- 🔭 I’m working as Frontend Developer in GumGum
 
 ###
 
